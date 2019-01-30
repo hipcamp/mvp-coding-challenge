@@ -1,4 +1,4 @@
-# boilerplate for the MVP coding challenge
+# MVP coding challenge boilerplate
 
 This is a blank project that contains the following:
 
