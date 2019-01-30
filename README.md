@@ -1,24 +1,13 @@
-# README
+# boilerplate for the MVP coding challenge
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blank project that contains the following:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Rails 5.2
+- Ruby 2.4.1
+- Yarn
+- Webpacker
+- JQuery
+- Sass
+- Slim
+- CoffeeScript
+- Bootstrap 4

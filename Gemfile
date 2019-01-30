@@ -6,11 +6,13 @@ ruby '2.4.1'
 gem 'rails', '~> 5.2.1'
 gem 'pg', '~> 0.18'
 
+gem 'coffee-rails'
+gem 'jquery-rails'
 gem 'sass-rails'
 gem 'slim'
 gem 'webpacker'
 
-gem 'bootstrap', '~> 4.2.1'
+gem 'bootstrap'
 
 gem 'uglifier'
 gem 'turbolinks'

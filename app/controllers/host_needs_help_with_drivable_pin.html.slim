@@ -1,0 +1,12 @@
+p
+  => link_to admin_user_url(@host) do
+    = @host.full_name
+  ' needs help positioning their "drivable" pin on the map.
+
+p
+  ' Property:
+  = link_to admin_park_url(@park) do
+    = @park.full_name
+  | .
+
+p Thanks!
