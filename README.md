@@ -11,3 +11,4 @@ This is a blank project that contains the following:
 - Slim
 - CoffeeScript
 - Bootstrap 4
+- React
