@@ -3,7 +3,7 @@
 This is a blank project that contains the following:
 
 - Rails 5.2
-- Ruby 2.4.1
+- Ruby 2.5.1
 - Yarn
 - Webpacker
 - JQuery
